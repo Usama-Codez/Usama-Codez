@@ -7,59 +7,46 @@
   <img src="https://komarev.com/ghpvc/?username=Usama-Codez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+## Intro
+Software Engineer using tools to automate life.
 
-## 🔭 I’m currently working on...
+## Profiles
+1. Portfolio: usamaakram.netlify.app
+2. LinkedIn: https://www.linkedin.com/in/usama-codez/
+3. Behance: https://www.behance.net/usamaakram17
+4. Leetcode: https://leetcode.com/u/Usama_Akaram/
+5. Hackerrank: https://www.hackerrank.com/profile/usamaakram442
+6. Youtube Channel: https://www.youtube.com/@DevPulseX
+   
+## Experiences
+1. [Fiverr](https://www.fiverr.com/s/5re7WXQ) - Fiverr Freelance
+2. [Upwork](https://www.upwork.com/freelancers/~01eccbff61d3188574?mp_source=share) - Upwork Freelance
 
-- 🧩 Building a complete AI-powered **photo-to-illustration converter**
-- 🔗 Improving my **Soft Skills**
-- 🏗️ Designing scalable backend systems with authentication & encryption
+## Tech Stack Experiences
+1. Frontend: Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Typescript/Javascript, React Native, OAuth
 
+2. Backend: Python, Nodejs, FAST API, SQL, Typescript/Javascript, .NET, Linux, REST API's
+   
+3. Cloud Engineering: Docker, AWS, Azure
 
-## 🌱 I’m currently learning...
+4. Testing: Selenium, Postman
 
-- 🧠 Deep Learning & Diffusion Models
-- ☁️ Cloud deployments (Render, Railway, Vercel)
-- 🐳 Docker + Kubernetes for container orchestration
-- 🧩 Clean Architecture for scalable codebases
+## Resume
+[https://resume.eqanahmad.com](https://usama-codez.github.io/resume/)
 
+## Certifications:
+[Software Engineer](https://www.hackerrank.com/certificates/iframe/8c46b1522964)
 
-## 👯 I’m looking to collaborate on...
-
-- 🔒 Real-time apps with new ideas
-- 🌐 Open-source web or mobile apps
-- 📊 AI/ML tools or research-based projects
-- 💬 Anything with Node.js, Python, React Native or FastAPI
-
-
-## 💬 Ask me about...
-
-```txt
-✔ Full-stack JS (Node.js, React Native, Express)
-✔ Real-time WebSockets & secure peer communication
-✔ Android Dev with MLKit (OCR/Face Detection)
-✔ Firebase, Auth systems, AI model integration
-```
-
-## 📫 How to reach me
-
-💼 LinkedIn: linkedin.com/in/usama-codez
-
-📧 Email: usamacodez10@gmail.com
-
-📹 YouTube: https://www.youtube.com/@DevPulseX
-
-😄 Pronouns
-He / Him / Developer
-
-⚡ Fun facts
-🧠 I love thinking about startups, software houses, and solutions with real-world impact
-
-❤️ In love with code
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Usama-Codez&show_icons=true&theme=radical" alt="GitHub Stats" /> <br> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usama-Codez&theme=radical" alt="GitHub Streak" /> <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usama-Codez&layout=compact&theme=radical" alt="Top Languages" /> </p>
+## Closed Source Projects:
 
 
-“I’m not just learning to code — I’m learning to build a future. One project, one goal, one dream at a time.” ✨
+
+## Open Source Projects:
+
+## My Github Stats
+[![](https://raw.githubusercontent.com/usama-codez/usama-codez/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/usama-codez/usama-codez/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/usama-codez/usama-codez/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/usama-codez/usama-codez/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/usama-codez/usama-codez/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
