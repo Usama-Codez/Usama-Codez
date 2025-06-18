@@ -28,7 +28,7 @@ Software Engineer using tools to automate life.
 4. Testing: Selenium, Postman
 
 ## Resume
-[https://resume.eqanahmad.com](https://usama-codez.github.io/resume/)
+[https://resume.usamaakram.com](https://usama-codez.github.io/resume/)
 
 ## Certifications:
 [Software Engineer](https://www.hackerrank.com/certificates/iframe/8c46b1522964)
